@@ -1,9 +1,8 @@
 div{
 	width: 300px;
 	background-color: lightblue;
-	border: 15px;
 	padding: 50px;
 	margin: 20px;
-	
+	border : 15px solid rgb(0, 0, 255)
 }
 /* Your CSS Code here. */
